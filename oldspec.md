@@ -1,5 +1,5 @@
 #Connect 4 specifications
-###Anthony Chen, Michelle Lucero, Jordan Yaqoob
+##Anthony Chen, Michelle Lucero, Jordan Yaqoob
 
 * Display  
 - user(2 users) choice -- pick a chip? 'X' or 'O' chips
@@ -11,6 +11,6 @@
 - build the 2D array
 - take input of column selection
 - gravity-- how to make chip fall
-- user select a column then place chip in the lowest unoccupied row keep track of user's turn 
+- user select a column then place chip in the lowest unoccupied row keep track of user's turn
 - alternate turns
 - terminate once 4 or more of same colored chips are consecutive(diagonal,horizontal,vertical) == win or terminate if all cells are filled == tie
