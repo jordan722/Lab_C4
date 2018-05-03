@@ -1,5 +1,5 @@
-#Connect 4 specifications
-##Anthony Chen, Michelle Lucero, Jordan Yaqoob
+* Connect 4 specifications
+* Anthony Chen, Michelle Lucero, Jordan Yaqoob
 
 * Display  
 - user(2 users) choice -- pick a chip? 'X' or 'O' chips
