@@ -15,6 +15,7 @@
 - take input of column selection
 - create function makeMove()
 - makeMove takes board, column, and chip color (x or o) as an input
+- function should also check for win after each move and exit if won
 - returns board with the chip inserted in
 - gravity-- how to make chip fall
 - user select a column then place chip in the lowest unoccupied row keep track of user's turn
@@ -31,4 +32,4 @@ four or more times in order (horizontally, vertically, diagonally)
 # Splitting of work
 - Member 1: Complete buildBoard() function
 - Member 2: Complete makeMove() function
-- Member 3: Complete checkWin() function 
+- Member 3: Complete checkWin() function
